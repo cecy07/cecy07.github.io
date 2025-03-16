@@ -38,6 +38,13 @@ on:
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
 
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Dummy step
+#         run: echo "This is a dummy step. Uncomment the next job to enable the link checker."
+
 jobs:
   link-checker:
     runs-on: ubuntu-latest
@@ -49,4 +56,4 @@ jobs:
         with:
           fail: true
           # removed md files that include liquid tags
-          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --exclude-path _books/the_godfather.md --verbose --no-progress './**/*.md' './**/*.html'
+          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --exclude-path _books/the_godfather.md --exclude-path CUSTOMIZE.md --verbose --no-progress './**/*.md' './**/*.html'
