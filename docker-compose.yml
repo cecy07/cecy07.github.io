@@ -2,20 +2,24 @@
 services:
   jekyll:
     image: amirpourmand/al-folio:v0.14.0
-    build: .
-    # uncomment these if you are having this issue with the build:
-    # /usr/local/bundle/gems/jekyll-4.3.4/lib/jekyll/site.rb:509:in `initialize': Permission denied @ rb_sysopen - /srv/jekyll/.jekyll-cache/.gitignore (Errno::EACCES)
-    # and fill the args values with the output of the commands on the right
-    # build:
-    #   args:
-    #     GROUPID: # id -g
-    #     GROUPNAME: # id -gn
-    #     USERID: # id -u
-    #     USERNAME: # echo $USER
+    # Use build with args to set proper permissions
+    build:
+      context: .
+      args:
+        GROUPID: 20  # Replace with output of 'id -g'
+        GROUPNAME: staff  # Replace with output of 'id -gn' 
+        USERID: 501  # Replace with output of 'id -u'
+        USERNAME: ceciliacallejas  # Replace with output of 'echo $USER'
     ports:
       - 8080:8080
       - 35729:35729
     volumes:
-      - .:/srv/jekyll
+      - .:/srv/jekyll:Z
+      # Add a named volume for the cache directory
+      - jekyll_cache:/srv/jekyll/.jekyll-cache
     environment:
       - JEKYLL_ENV=development
+
+# Define the named volume
+volumes:
+  jekyll_cache:

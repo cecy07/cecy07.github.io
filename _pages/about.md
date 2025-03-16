@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Chungnam National University</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Chungnam National University</a>. Daejeon. South Korea.
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>Daejeon</p>
     <p>South Korea</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -21,13 +21,19 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+About Me
+I am a biomedical engineer specializing in the development of AI-driven medical technologies with a focus on vestibular disorders and biosignal processing. Currently serving as a Postdoctoral Researcher at Seoul National University Hospital and Chungnam National University, I lead research initiatives that bridge the gap between theoretical concepts and practical clinical applications.
+My research focuses on developing innovative diagnostic tools and treatment approaches for vestibular disorders using machine learning and sensor technologies. I'm particularly interested in creating accessible mobile health solutions that can improve patient outcomes and healthcare delivery.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Research Interests
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- Artificial intelligence and machine learning for medical diagnostics
+- Mobile health applications for screening and monitoring
+- Biosignal processing and analysis
+- Medical device development and integration
+- Non-invasive monitoring systems
