@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-portafolio",
+          title: "Portafolio",
+          description: "2025 Portfolio Preview and Download",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portafolio/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
