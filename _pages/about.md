@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Reseacher<br>Seoul National University & Chungnam National University<br>South Korea.
+subtitle: >
+  <span style="font-size: 1.2em; font-weight: bold;">Postdoctoral Researcher</span><br>Seoul National University & Chungnam National University<br>South Korea
 
 profile:
   align: right
