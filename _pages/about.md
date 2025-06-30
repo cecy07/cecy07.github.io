@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Seoul National University, South Korea.
+subtitle: Postdoctoral Reseacher<br>Seoul National University & Chungnam National University<br>South Korea.
 
 profile:
   align: right
