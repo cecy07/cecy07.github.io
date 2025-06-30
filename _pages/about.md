@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Seoul National University</a>. Daejeon. South Korea.
+subtitle: Seoul National University, South Korea.
 
 profile:
   align: right
