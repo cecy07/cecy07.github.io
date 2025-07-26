@@ -269,8 +269,8 @@
   ],
   "publications": [
     {
-      "name": "Clinical decision support for vestibular diagnosis: Large-scale machine learning with lived experience coaching",
-      "publisher": "NPJ journal",
+      "name": "Autonomic Nervous System Responses to Virtual Reality Exposure: Heart Rate Variability Dynamics During Simulated Roller Coaster Experience",
+      "publisher": "Journal of Neurology",
       "releaseDate": "2025",
       "url": "",
       "summary": "Under Review"
@@ -281,6 +281,13 @@
       "releaseDate": "2025",
       "url": "",
       "summary": "Under Review (First Co-Author)"
+    },
+    {
+      "name": "Clinical decision support for vestibular diagnosis: Large-scale machine learning with lived experience coaching",
+      "publisher": "NPJ journal",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Accepted"
     },
     {
       "name": "Machine learning-based cardiac index estimation using photoplethysmography in off-pump coronary artery bypass surgery",
