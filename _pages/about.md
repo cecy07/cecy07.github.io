@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <span style="font-size: 1.2em; font-weight: bold;">Research Professor</span><br>Seoul National University & Chungnam National University Hospital<br>South Korea
+  <span style="font-size: 1.2em; font-weight: bold;">Research Professor</span><br>Chungnam National University Hospital<br>South Korea
 
 profile:
   align: right
@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 About Me
-I am a biomedical engineer specializing in the development of AI-driven medical technologies with a focus on vestibular disorders and biosignal processing. Currently serving as a Postdoctoral Researcher at Seoul National University and Chungnam National University, I lead research initiatives that bridge the gap between theoretical concepts and practical clinical applications.
+I am a biomedical engineer specializing in the development of AI-driven medical technologies with a focus on vestibular disorders and biosignal processing. Currently serving as a Research Professor in Chungnam National Universtiy Hospital, I lead research initiatives that bridge the gap between theoretical concepts and practical clinical applications.
 My research focuses on developing innovative diagnostic tools and treatment approaches for vestibular disorders using machine learning and sensor technologies. I'm particularly interested in creating accessible mobile health solutions that can improve patient outcomes and healthcare delivery.
 
 Research Interests
