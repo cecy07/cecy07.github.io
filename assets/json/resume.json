@@ -29,11 +29,20 @@
   },
   "work": [
     {
+      "name": "Chungnam National University Hospital",
+      "position": "Research Professor",
+      "url": "",
+      "startDate": "2025-12-01",
+      "endDate": "Present",
+      "summary": "Leading research on large language model (LLM)–driven tools for CKD and AKI management, developing models that interpret clinical text and structured data to flag high-risk patients, support individualized treatment decisions, and reduce progression to kidney failure.",
+      "highlights": ["LLM-driven tools for CKD and AKI management", "Clinical text interpretation", "Structured data analysis", "Kidney failure progression reduction"]
+    },
+    {
       "name": "Seoul National University Hospital & Chungnam National University",
       "position": "Postdoctoral Researcher",
       "url": "",
       "startDate": "2024-09-01",
-      "endDate": "Present",
+      "endDate": "2025-11-30",
       "summary": "Leading research and development of AI-driven medical technologies, focusing on algorithm design, signal processing, and machine learning for clinical applications. Proficient in Python, MATLAB, Java, and Flutter for cross-platform medical software development. Combining expertise in computer vision and predictive modeling with hardware integration through embedded systems. Specializing in biomedical signal processing and developing practical AI-based tools.",
       "highlights": ["AI-driven medical technologies", "Signal processing", "Machine learning", "Software development"]
     },
@@ -270,14 +279,22 @@
   "publications": [
     {
       "name": "Autonomic Nervous System Responses to Virtual Reality Exposure: Heart Rate Variability Dynamics During Simulated Roller Coaster Experience",
-      "publisher": "Journal of Neurology",
+      "publisher": "Scientific Reports",
       "releaseDate": "2025",
       "url": "",
       "summary": "Under Review"
     },
     {
+      "name": "Therapeutic Efficacy of Canalith Repositioning Procedure Using by Inertial Measurement Unit Sensor-Based Guiding System for Idiopathic Benign Paroxysmal Positional Vertigo",
+      "publisher": "Journal of Vascular Research",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "Under Review"
+    },
+
+    {
       "name": "An advanced rule-based mobile classifier for the automated diagnosis of vestibular disorders",
-      "publisher": "International Journal of Audiology",
+      "publisher": "Scientific Reports",
       "releaseDate": "2025",
       "url": "",
       "summary": "Under Review (First Co-Author)"
@@ -286,8 +303,8 @@
       "name": "Clinical decision support for vestibular diagnosis: Large-scale machine learning with lived experience coaching",
       "publisher": "NPJ journal",
       "releaseDate": "2025",
-      "url": "",
-      "summary": "Accepted"
+      "url": "https://doi.org/10.1038/s41746-025-01880-z",
+      "summary": "Volume 8, Issue 1, Pages 487"
     },
     {
       "name": "Machine learning-based cardiac index estimation using photoplethysmography in off-pump coronary artery bypass surgery",
@@ -338,6 +355,13 @@
   //   }
   // ],
   "patents": [
+    {
+      "title": "Automatic X-ray imaging angle setting device using machine learning and artificial intelligence",
+      "number": "2025-1-178-KR",
+      "date": "2025",
+      "inventors": "HJ Kwon, Y Ku, CA Callejas Pastor",
+      "location": "South Korea"
+    },
     {
       "title": "System and method for dizziness etiology diagnosis",
       "number": "KR10-2023-0055247",
