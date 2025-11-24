@@ -35,7 +35,12 @@
       "startDate": "2025-12-01",
       "endDate": "Present",
       "summary": "Leading research on large language model (LLM)–driven tools for CKD and AKI management, developing models that interpret clinical text and structured data to flag high-risk patients, support individualized treatment decisions, and reduce progression to kidney failure.",
-      "highlights": ["LLM-driven tools for CKD and AKI management", "Clinical text interpretation", "Structured data analysis", "Kidney failure progression reduction"]
+      "highlights": [
+        "LLM-driven tools for CKD and AKI management",
+        "Clinical text interpretation",
+        "Structured data analysis",
+        "Kidney failure progression reduction"
+      ]
     },
     {
       "name": "Seoul National University Hospital & Chungnam National University",
@@ -203,33 +208,19 @@
       "name": "Hardware Design and Modeling",
       "level": "Advanced",
       "icon": "fa-solid fa-microchip",
-      "keywords": [
-        "SolidWorks",
-        "OrCAD",
-        "PADS"
-      ]
+      "keywords": ["SolidWorks", "OrCAD", "PADS"]
     },
     {
       "name": "Firmware Development",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Segger Embedded Studio",
-        "STM32 CubeMX"
-      ]
+      "keywords": ["Segger Embedded Studio", "STM32 CubeMX"]
     },
     {
       "name": "Software Development",
       "level": "Advanced",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "Python",
-        "MATLAB",
-        "Android Studio / Java",
-        "Flutter / Dart",
-        "Jira Cloud",
-        "REST API and Postman"
-      ]
+      "keywords": ["Python", "MATLAB", "Android Studio / Java", "Flutter / Dart", "Jira Cloud", "REST API and Postman"]
     }
   ],
   "languages": [
@@ -258,22 +249,12 @@
     {
       "name": "Biomedical Engineering",
       "icon": "fa-solid fa-heartbeat",
-      "keywords": [
-        "Medical Devices",
-        "Healthcare Technology",
-        "Artificial Intelligence in Medicine",
-        "Biosignal Processing"
-      ]
+      "keywords": ["Medical Devices", "Healthcare Technology", "Artificial Intelligence in Medicine", "Biosignal Processing"]
     },
     {
       "name": "Software Development",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Mobile Applications",
-        "Embedded Systems",
-        "Machine Learning",
-        "Web Development"
-      ]
+      "keywords": ["Mobile Applications", "Embedded Systems", "Machine Learning", "Web Development"]
     }
   ],
   "publications": [
