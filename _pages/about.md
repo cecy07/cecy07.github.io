@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <span style="font-size: 1.2em; font-weight: bold;">Postdoctoral Researcher</span><br>Seoul National University & Chungnam National University<br>South Korea
+  <span style="font-size: 1.2em; font-weight: bold;">Research Professor</span><br>Seoul National University & Chungnam National University Hospital<br>South Korea
 
 profile:
   align: right
