@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-portafolio",
           title: "Portafolio",
-          description: "2025 Portfolio Preview and Download",
+          description: "2026 Portfolio Preview and Download",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portafolio/";
