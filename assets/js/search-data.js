@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
+  },{id: "nav-research",
+          title: "Research",
           description: "List of journal publications, conferences and patents in chronological order.",
           section: "Navigation",
           handler: () => {
@@ -379,6 +379,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-paper-clinical-decision-support-for-vestibular-diagnosis-large-scale-machine-learning-with-lived-experience-coaching-accepted-to-npj-digital-medicine-journal-if-15-1",
           title: 'Paper “Clinical decision support for vestibular diagnosis: Large-scale machine learning with lived experience...',
+          description: "",
+          section: "News",},{id: "news-award-for-the-best-poster-presentation-by-the-korean-balance-society-south-korea",
+          title: 'Award for the best poster presentation by The Korean Balance Society, South Korea....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
