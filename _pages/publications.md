@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: Research
 description: List of journal publications, conferences and patents in chronological order.
 nav: true
 nav_order: 2
