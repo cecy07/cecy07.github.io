@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-12-07 07:59:00-0400
+date: 2026-05-21 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Award for the best poster presentation by The Korean Balance Society, South Korea.
+Paper "A rule-based mobile screening classifier for six ICVD-defined vestibular disorders: a pilot study" accepted to Scientific Reports.

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-07 16:11:00-0400
+date: 2024-11-30 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Award for the best oral presentation by The Korean Balance Society in South Korea
+Award for the best poster presentation by The Korean Innovative Medical Technology Society, South Korea.

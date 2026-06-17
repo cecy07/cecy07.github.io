@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-01-15 07:59:00-0400
+date: 2025-06-21 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Research allowance incentive for the development of a three-month project by Chungnam National University, South Korea.
+Paper "Clinical decision support for vestibular diagnosis: Large-scale machine learning with lived experience coaching" accepted to NPJ Digital Medicine Journal (IF: 15.1).

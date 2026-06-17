@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2021-10-22 15:59:00-0400
+date: 2022-01-15 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Award for the best poster presentation by The Korean Innovative Medical Technology Society of South Korea.
+Research allowance incentive for the development of a three-month project by Chungnam National University, South Korea.
