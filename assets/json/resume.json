@@ -32,7 +32,7 @@
       "url": "",
       "startDate": "2026-06-01",
       "endDate": "Present",
-      "summary": "Conducting data science and AI research on healthy longevity, sleep epidemiology, and metabolic syndrome prevention, analyzing biodata, wearable-device data, and digital lifestyle data to identify health-risk patterns and support personalized feedback.",
+      "summary": "Conducting data science and AI research on healthy longevity, sleep epidemiology, and metabolic syndrome prevention, analyzing biodata, wearable-device data, and digital lifestyle data to identify health-risk patterns and support personalized feedback."
     },
     {
       "name": "Chungnam National University Hospital",
@@ -275,116 +275,4 @@
       "keywords": ["Mobile Applications", "Embedded Systems", "Machine Learning", "Web Development"]
     }
   ]
-  // ,
-  // "publications": [
-  //     {
-  //     "name": "Development of Personalized Integrated Hemodynamic Management Guidelines Using Multimodal Non-Invasive Monitoring for Postoperative Delirium",
-  //     "publisher": "British Journal of Anaesthesia",
-  //     "releaseDate": "2026",
-  //     "url": "",
-  //     "summary": "Under Review (First Co-Author)"
-  //   },
-  //       {
-  //     "name": "Therapeutic Efficacy of Canalith Repositioning Procedure Using by Inertial Measurement Unit Sensor-Based Guiding System for Idiopathic Benign Paroxysmal Positional Vertigo",
-  //     "publisher": "Journal of Vascular Research",
-  //     "releaseDate": "2025",
-  //     "url": "",
-  //     "summary": "Under Review"
-  //   },
-  //   {
-  //     "name": "Heart rate variability dynamics during virtual reality roller coaster experience: correlations with vestibular function and motion sickness susceptibility",
-  //     "publisher": "Scientific Reports",
-  //     "releaseDate": "2026",
-  //     "url": "https://doi.org/10.1038/s41598-026-50827-1"
-  //   },
-
-
-  //   {
-  //     "name": "A rule-based mobile screening classifier for six ICVD-defined vestibular disorders: a pilot study",
-  //     "publisher": "Scientific Reports",
-  //     "releaseDate": "2026",
-  //     "url": "https://doi.org/10.1038/s41598-026-53480-w",
-  //     "summary": "(First Co-Author)"
-  //   },
-  //   {
-  //     "name": "Clinical decision support for vestibular diagnosis: Large-scale machine learning with lived experience coaching",
-  //     "publisher": "NPJ journal",
-  //     "releaseDate": "2025",
-  //     "url": "https://doi.org/10.1038/s41746-025-01880-z"
-  //   },
-  //   {
-  //     "name": "Machine learning-based cardiac index estimation using photoplethysmography in off-pump coronary artery bypass surgery",
-  //     "publisher": "Journal of Clinical Medicine",
-  //     "releaseDate": "2024",
-  //     "url": "https://doi.org/10.3390/jcm13237145"
-  //   },
-  //   {
-  //     "name": "Feasibility of an inertial measurement unit sensor-based guiding system for the treatment of benign paroxysmal positional vertigo",
-  //     "publisher": "Scientific Reports",
-  //     "releaseDate": "2023",
-  //     "url": "https://doi.org/10.1038/s41598-023-29685-8"
-  //   },
-  //   {
-  //     "name": "Two-dimensional image-based screening tool for infants with positional cranial deformities: A machine learning approach",
-  //     "publisher": "Diagnostics",
-  //     "releaseDate": "2020",
-  //     "url": "https://doi.org/10.3390/diagnostics10070495"
-  //   }
-  // ],
-  // // "projects": [
-  // //   {
-  // //     "name": "Vestibular Disorders Screening App",
-  // //     "summary": "Developed a mobile application for screening and diagnosis of vestibular disorders using rule-based algorithms and machine learning techniques. The app provides a tool for early detection and management of balance disorders.",
-  // //     "highlights": ["Mobile development", "AI-based diagnosis", "Healthcare application"],
-  // //     "startDate": "2022",
-  // //     "endDate": "2023-12-01",
-  // //     "url": ""
-  // //   },
-  // //   {
-  // //     "name": "BPPV Treatment Guiding System",
-  // //     "summary": "Created an inertial measurement unit (IMU) sensor-based system to guide treatment for benign paroxysmal positional vertigo (BPPV), improving treatment accuracy and patient outcomes.",
-  // //     "highlights": ["IMU sensors", "Treatment guidance", "Medical device development"],
-  // //     "startDate": "2021-06-01",
-  // //     "endDate": "2023-05-01",
-  // //     "url": ""
-  // //   },
-  // //   {
-  // //     "name": "Cardiac Index Estimation System",
-  // //     "summary": "Developed a machine learning-based system for estimating cardiac index using photoplethysmography in off-pump coronary artery bypass surgery, providing non-invasive monitoring capability.",
-  // //     "highlights": ["Machine learning", "Biosignal processing", "Surgical monitoring"],
-  // //     "startDate": "2021",
-  // //     "endDate": "2022-12-01",
-  // //     "url": ""
-  // //   }
-  // // ],
-  // "patents": [
-  //   {
-  //     "title": "Method for setting imaging angles in cerebral angiography and computing apparatus for performing the same",
-  //     "number": "KR10-2026-0021401",
-  //     "date": "2026",
-  //     "inventors": "HJ Kwon, Y Ku, CA Callejas Pastor",
-  //     "location": "South Korea"
-  //   },
-  //   {
-  //     "title": "System and method for dizziness etiology diagnosis",
-  //     "number": "KR10-2023-0055247",
-  //     "date": "2023",
-  //     "inventors": "S Byun, M Suh, HT Ryu, JS Joo, Y Ku, CA Callejas Pastor, S Oh",
-  //     "location": "South Korea"
-  //   },
-  //   {
-  //     "title": "Inclination measuring device, measuring method and computer program using marker",
-  //     "number": "KR2377363",
-  //     "date": "2020",
-  //     "inventors": "J Choi, Y Ku, CA Callejas Pastor",
-  //     "location": "South Korea"
-  //   },
-  //   {
-  //     "title": "Inclination measuring device, measuring method and computer program to measure the degree of tilt or rotation of the user's head through human body image",
-  //     "number": "KR2377364",
-  //     "date": "2020",
-  //     "inventors": "J Choi, Y Ku, IY Jung, CA Callejas Pastor",
-  //     "location": "South Korea"
-  //   }
-  // ]
 }
